@@ -32,37 +32,37 @@ business can do about it.
 ## 📸 Project Showcase
 
 ### 🖥️ Executive Summary Dashboard
-![Executive Summary](11_Screenshots/05_PowerBI/page1_executive_summary.png) 
+![Executive Summary](11_Screenshots/04_PowerBI/page1_executive_summary.png) 
 
 ---
 
 ### 🧠 Customer Intelligence Dashboard
-![Customer Intelligence](11_Screenshots/05_PowerBI/page2_customer_intelligence.png)
+![Customer Intelligence](11_Screenshots/04_PowerBI/page2_customer_intelligence.png)
 
 ---
 
 ### 🛍️ Product & Sales Dashboard
-![Product & Sales](11_Screenshots/05_PowerBI/page3_product_sales.png)
+![Product & Sales](11_Screenshots/04_PowerBI/page3_product_sales.png)
 
 ---
 
 ### 🚚 Delivery & Operations Dashboard
-![Delivery & Operations](11_Screenshots/05_PowerBI/page4_delivery_operations.png)
+![Delivery & Operations](11_Screenshots/04_PowerBI/page4_delivery_operations.png)
 
 ---
 
 ### 🎯 RFM Customer Segmentation
-![RFM Segments](11_Screenshots/03_Python/rfm_segments.png)
+![RFM Segments](11_Screenshots/02_Python/rfm_segments.png)
 
 ---
 
 ### 🤖 Churn Prediction — Feature Importance
-![Churn Feature Importance](11_Screenshots/04_Machine_Learning/churn_feature_importance.png)
+![Churn Feature Importance](11_Screenshots/03_Machine_Learning/churn_feature_importance.png)
 
 ---
 
 ### 📈 EDA — Monthly Revenue Trend
-![Monthly Revenue](11_Screenshots/03_Python/eda_monthly_revenue.png)
+![Monthly Revenue](11_Screenshots/02_Python/eda_monthly_revenue.png)
 
 ---
 
