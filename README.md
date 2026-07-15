@@ -62,7 +62,7 @@ business can do about it.
 ---
 
 ### 📈 EDA — Monthly Revenue Trend
-![Monthly Revenue](11_Screenshots/02_Python/eda_monthly_revenue.png)
+![Monthly Revenue](11_Screenshots/02_Python/eda_states.png)
 
 ---
 
